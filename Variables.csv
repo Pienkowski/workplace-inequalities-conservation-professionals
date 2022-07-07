@@ -1,0 +1,76 @@
+Variable,Description,Code,Data_type,Question,Response,Question number,Notes
+Age ,Reported age in years ,age_year,Numeric  ,How old are you?,Number; Prefer not to say but over 18,1,
+Goal progress endorsement (GPE) 1,Item from GP scale,GP_1_a,Logical,… making a meaningful contribution to conservation,Yes,3,
+Goal progress (GP) 1,Item from goal progress question,GP_1_b,Ordinal,How satisfied are you with your progress to these personal work goals?,Very dissatisfied ; Dissatisfied; Neutral; Satisfied ; Very satisfied,4,
+GPE 2,Item from GP scale,GP_2_a,Logical,… being a leader,Yes,5,
+GP 2,Item from goal progress question,GP_2_b,Ordinal,How satisfied are you with your progress to these personal work goals?,Very dissatisfied ; Dissatisfied; Neutral; Satisfied ; Very satisfied,6,
+GPE 3,Item from GP scale,GP_3_a,Logical,… influencing other people’s behaviour,Yes,7,
+GP 3,Item from goal progress question,GP_3_b,Ordinal,How satisfied are you with your progress to these personal work goals?,Very dissatisfied ; Dissatisfied; Neutral; Satisfied ; Very satisfied,8,
+GPE 4,Item from GP scale,GP_4_a,Logical,… earning money,Yes,9,
+GP 4,Item from goal progress question,GP_4_b,Ordinal,How satisfied are you with your progress to these personal work goals?,Very dissatisfied ; Dissatisfied; Neutral; Satisfied ; Very satisfied,10,
+GPE 6,Item from GP scale,GP_6_a,Logical,… ensuring people benefit from nature in a sustainable way,Yes,13,
+GP 6,Item from goal progress question,GP_6_b,Ordinal,How satisfied are you with your progress to these personal work goals?,Very dissatisfied ; Dissatisfied; Neutral; Satisfied ; Very satisfied,14,
+GPE 7,Item from GP scale,GP_7_a,Logical,… making sure people are treated equally and fairly,Yes,15,
+GP 7,Item from goal progress question,GP_7_b,Ordinal,How satisfied are you with your progress to these personal work goals?,Very dissatisfied ; Dissatisfied; Neutral; Satisfied ; Very satisfied,16,
+GPE 8,Item from GP scale,GP_8_a,Logical,… avoiding conflict between people and conservation,Yes,17,
+GP 8,Item from goal progress question,GP_8_b,Ordinal,How satisfied are you with your progress to these personal work goals?,Very dissatisfied ; Dissatisfied; Neutral; Satisfied ; Very satisfied,18,
+GPE 5,Item from GP scale,GP_5_a,Logical,… stopping human-driven species loss,Yes,11,
+GP 5,Item from goal progress question,GP_5_b,Ordinal,How satisfied are you with your progress to these personal work goals?,Very dissatisfied ; Dissatisfied; Neutral; Satisfied ; Very satisfied,12,
+GPE 9,Item from GP scale,GP_9_a,Logical,… stopping damage to the natural world,Yes,19,
+GP 9,Item from goal progress question,GP_9_b,Ordinal,How satisfied are you with your progress to these personal work goals?,Very dissatisfied ; Dissatisfied; Neutral; Satisfied ; Very satisfied,20,
+GPE 10,Item from GP scale,GP_10_a,Logical,… creating a more sustainable world,Yes,21,
+GP 10,Item from goal progress question,GP_10_b,Ordinal,How satisfied are you with your progress to these personal work goals?,Very dissatisfied ; Dissatisfied; Neutral; Satisfied ; Very satisfied,22,
+ERI 1,Item from ERI,ERI_1,Ordinal,I have constant time pressure due to a heavy work load,Strongly disagree; Disagree; Agree; Strongly agree,25,
+ERI 2,Item from ERI,ERI_2,Ordinal,I have many interruptions and disturbances while performing my job,Strongly disagree; Disagree; Agree; Strongly agree,26,
+ERI 3,Item from ERI,ERI_3,Ordinal,"Over the past few years, my job has become more and more demanding",Strongly disagree; Disagree; Agree; Strongly agree,27,
+ADD 1,Conservation specific item added to ERI,ADD1,Ordinal,I do not have the resources I need to archive my work goals,Strongly disagree; Disagree; Agree; Strongly agree,28,Added questions
+ADD 2,Conservation specific item added to ERI,ADD2,Ordinal,The organisation I work for does not have enough funding to achieve its main aims,Strongly disagree; Disagree; Agree; Strongly agree,29,Added questions
+ADD 3,Conservation specific item added to ERI,ADD3,Ordinal,The organisation I work for may not exist in five years’ time,Strongly disagree; Disagree; Agree; Strongly agree,30,Added questions
+ERI 4,Item from ERI,ERI_4,Ordinal,I receive the respect I deserve from my boss and work colleagues,Strongly disagree; Disagree; Agree; Strongly agree; Not applicable,31,Includes NA
+ERI 5,Item from ERI,ERI_5,Ordinal,My job promotion or advancement prospects are poor (reverse coding),Strongly disagree; Disagree; Agree; Strongly agree; Not applicable,32,Includes NA
+ERI 6,Item from ERI,ERI_6,Ordinal,I have experienced or I expect to experience an undesirable change in my work situation (reverse coding),Strongly disagree; Disagree; Agree; Strongly agree,33,
+ERI 7,Item from ERI,ERI_7,Ordinal,My job security is poor (reverse coding),Strongly disagree; Disagree; Agree; Strongly agree,34,
+ERI 8,Item from ERI,ERI_8,Ordinal,"Considering all my efforts and achievements, I receive the respect and prestige I deserve at work",Strongly disagree; Disagree; Agree; Strongly agree,35,
+ERI 9,Item from ERI,ERI_9,Ordinal,"Considering all my efforts and achievements, my job promotion or advancement prospects are adequate",Strongly disagree; Disagree; Agree; Strongly agree; Not applicable,36,Includes NA
+ERI 10,Item from ERI,ERI_10,Ordinal,"Considering all my efforts and achievements, my salary or income is alright",Strongly disagree; Disagree; Agree; Strongly agree,37,
+ADD 4,Conservation specific item added to ERI,ADD4,Ordinal,I am satisfied with the contribution I make to conservation,Strongly disagree; Disagree; Agree; Strongly agree,38,Added questions
+ADD 5,Conservation specific item added to ERI,ADD5,Ordinal,My friends and family are proud that I work in conservation,Strongly disagree; Disagree; Agree; Strongly agree,39,Added questions
+Situational optimism predictors (SO) 1,Item from situational optimism scale,SO_1,Ordinal,Public support for conservation will grow over the next ten years,Definitely won't; Probably won’t ; Probably will; Definitely will,41,
+SO 2,Item from situational optimism scale,SO_2,Ordinal,Government spending on conservation will grow over the next ten years,Definitely won't; Probably won’t ; Probably will; Definitely will,42,
+SO 3,Item from situational optimism scale,SO_3,Ordinal,The harmful impact of people on nature will be less in ten years' time than it is now,Definitely won't; Probably won’t ; Probably will; Definitely will,43,
+SO 4,Item from situational optimism scale,SO_4,Ordinal,Human society will be more environmentally sustainable in ten years' time than it is now,Definitely won't; Probably won’t ; Probably will; Definitely will,44,
+SO 5,Item from situational optimism scale,SO_5,Ordinal,There will be more wildlife in ten years' time than there is today,Definitely won't; Probably won’t ; Probably will; Definitely will,45,
+SO 6,Item from situational optimism scale,SO_6,Ordinal,There will be more natural areas and habitats in ten years' time than there are today,Definitely won't; Probably won’t ; Probably will; Definitely will,46,
+SO 7,Item from situational optimism scale,SO_7,Ordinal,People will spend more recreational time in nature in ten years' time than they do now,Definitely won't; Probably won’t ; Probably will; Definitely will,47,
+SO 8,Item from situational optimism scale,SO_8,Ordinal,Nature will be able to provide the same benefits to people in ten years' time as now,Definitely won't; Probably won’t ; Probably will; Definitely will,48,
+SO 9,Item from situational optimism scale,SO_9,Ordinal,There will be more local participation in conservation in ten years' time than now,Definitely won't; Probably won’t ; Probably will; Definitely will,49,
+SO 10,Item from situational optimism scale,SO_10,Ordinal,Conservationists will have better tools and knowledge in ten years' time than now,Definitely won't; Probably won’t ; Probably will; Definitely will,50,
+SO 11,Item from situational optimism scale,SO_11,Ordinal,... the most important [locally-focused] conservation goals will be met in the next ten years?,Definitely won't; Probably won’t ; Probably will; Definitely will,24,
+LOTR 1,Item from Life-Orientation Test Revised,LOTR_1,Ordinal,"In uncertain times, I usually expect the best",Strongly disagree; Disagree; Neither; Agree; Strongly agree,51,
+LOTR 2,Item from Life-Orientation Test Revised,LOTR_2,Ordinal,"If something can go wrong for me, it will (reverse coding)",Strongly disagree; Disagree; Neither; Agree; Strongly agree,52,
+LOTR 3,Item from Life-Orientation Test Revised,LOTR_3,Ordinal,I'm always optimistic about my future,Strongly disagree; Disagree; Neither; Agree; Strongly agree,53,
+LOTR 4,Item from Life-Orientation Test Revised,LOTR_4,Ordinal,I hardly ever expect things to go my way (reverse coding),Strongly disagree; Disagree; Neither; Agree; Strongly agree,54,
+LOTR 5,Item from Life-Orientation Test Revised,LOTR_5,Ordinal,I rarely count on good things happening to me (reverse coding),Strongly disagree; Disagree; Neither; Agree; Strongly agree,55,
+LOTR 6,Item from Life-Orientation Test Revised,LOTR_6,Ordinal,"Overall, I expect more good things to happen to me than bad",Strongly disagree; Disagree; Neither; Agree; Strongly agree,56,
+Psychological distress predicators (PD) 1,Item from K10 ,K10_1,Ordinal,… tired out for no good reason?,None of the time;  A little of the time; Some of the time; Most of the time; All of the time,57,
+PD 2,Item from K10 ,K10_2,Ordinal,…nervous?,None of the time;  A little of the time; Some of the time; Most of the time; All of the time,58,
+PD 3,Item from K10 ,K10_3,Ordinal,…so nervous that nothing could calm you down?,None of the time;  A little of the time; Some of the time; Most of the time; All of the time,59,"Not asked if the previous response was ""None of the time"" "
+PD 4,Item from K10,K10_4,Ordinal,…hopeless?,None of the time;  A little of the time; Some of the time; Most of the time; All of the time,60,
+PD 5,Item from K10,K10_5,Ordinal,…restless or fidgety?,None of the time;  A little of the time; Some of the time; Most of the time; All of the time,61,
+PD 6,Item from K10,K10_6,Ordinal,…so restless that you could not sit still?,None of the time;  A little of the time; Some of the time; Most of the time; All of the time,62,"Not asked if the previous response was ""None of the time"" "
+PD 7,Item from K10,K10_7,Ordinal,…depressed?,None of the time;  A little of the time; Some of the time; Most of the time; All of the time,63,
+PD 8,Item from K10,K10_8,Ordinal,…so depressed that nothing could cheer you up?,None of the time;  A little of the time; Some of the time; Most of the time; All of the time,64,"Not asked if the previous response was ""None of the time"" "
+PD 9,Item from K10,K10_9,Ordinal,…that everything was an effort?,None of the time;  A little of the time; Some of the time; Most of the time; All of the time,65,
+PD 10,Item from K10,K10_10,Ordinal,…worthless?,None of the time;  A little of the time; Some of the time; Most of the time; All of the time,66,
+Physical health ,Based on General Household Survey,health,Ordinal,How is your physical health in general?,Very good; Good; Fair; Bad; Very bad,67,
+Social support (SS) 1,Based on WHOQOL-BREF ,SS1,Ordinal,… your personal relationships?,Very dissatisfied ; Dissatisfied; Neither; Satisfied ; Very satisfied,68,
+SS 2,Based on WHOQOL-BREF ,SS2,Ordinal,… the support you get from your friends and family?,Very dissatisfied ; Dissatisfied; Neither; Satisfied ; Very satisfied,69,
+SS 3,Additional social support question,SS3,Ordinal, … the amount of time you are able to spend with friends and family?,Very dissatisfied ; Dissatisfied; Neither; Satisfied ; Very satisfied,70,
+Perceived personal security (PS) 1,Personal security question,PS_1,Ordinal,It is dangerous to go outside at night alone,Very dissatisfied ; Dissatisfied; Neither; Satisfied ; Very satisfied,71,
+PS 2,Personal security question,PS_2,Ordinal,My work puts me in dangerous situations,Very dissatisfied ; Dissatisfied; Neither; Satisfied ; Very satisfied,72,
+PS 3,Personal security question,PS_3,Ordinal,"I do not feel safe, even where I live",Very dissatisfied ; Dissatisfied; Neither; Satisfied ; Very satisfied,73,
+Years in conservation,How many years have you worked in conservation ,years_cons,Numeric ,How many years have you worked or conducted research in conservation?,Years,75,If they work in conservation
+Occupation position,Reported job type  ,position,Factor,What is your main role?,Ranger; Fieldworker; Manager; Administration ; Graduate student; Bachelors student; Researcher; Consultant/self-employed; Policymaker; Intern; Other,76,Maybe missed some important catagories - like project officer
+Gender,Reported gender,gender,Factor,What is your gender?,Female; Male; Prefer not to say; Other,77,
+Education,Reported level of education,education,Ordinal,What is your highest level of education?,None; Primary school; Secondary school; College; University; Prefer not to say,77,Not consistent between countries
+Working hours,Reported working hours per week,WH,Numeric  ,How many hours do you normally work each week?,Number; Prefer not to say but over 18,80,
